@@ -12,5 +12,6 @@
   </head>
   <body>
   $END$
+  <!--哈哈哈哈，git与idea结合-->
   </body>
 </html>
